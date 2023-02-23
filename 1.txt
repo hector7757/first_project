@@ -1,1 +1,3 @@
 print('hello word')
+x=[1,1,1]
+for i in x:
